@@ -7,7 +7,7 @@ Resources and notes for the Zero to Mastery [Complete Python Developer course](h
 - [Python Basics](https://github.com/zero-to-mastery/Complete-Python-Developer-Manuel/blob/main/python_basics.ipynb)
 - Python Basics 2
 - Developer Environment
-- Advanced Python: Object-Oriented Programming
+- [Advanced Python: Object-Oriented Programming](https://github.com/zero-to-mastery/Complete-Python-Developer-Manual/blob/main/object_oriented_programming.ipynb)
 - Advanced Python: Functional Programming
 - Advanced Python: Decorators
 - Advanced Python: Error Handling
