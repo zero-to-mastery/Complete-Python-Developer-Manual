@@ -3,7 +3,7 @@
 Resources and notes for the Zero to Mastery [Complete Python Developer course](https://zerotomastery.io/courses/learn-python/)
 
 - Introduction
-- Python Introduction
+- [Python Introduction](https://github.com/zero-to-mastery/Complete-Python-Developer-Manuel/blob/main/python_basics.ipynb)
 - Python Basics
 - Python Basics 2
 - Developer Environment
