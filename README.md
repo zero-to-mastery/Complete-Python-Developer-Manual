@@ -19,6 +19,7 @@ Resources and notes for the Zero to Mastery [Complete Python Developer course](h
 - Testing in Python
 - Career of a Python Developer
 - Scripting with Python
+- Python Network Programming
 - Scraping Data with Python
 - Web Development with Python
 - Automation/Testing
